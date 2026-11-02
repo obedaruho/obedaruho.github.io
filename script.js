@@ -1,0 +1,1 @@
+console.log("Welcome to Obed Aruho's website!");
